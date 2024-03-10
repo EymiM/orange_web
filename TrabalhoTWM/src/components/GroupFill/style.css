@@ -1,0 +1,75 @@
+.group-fill {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.group-fill .overlap-group {
+  height: 8px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 16px;
+}
+
+.group-fill .ellipse {
+  background-color: #898989;
+  border-radius: 4px;
+  height: 8px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.group-fill .div {
+  background-color: #898989;
+  border-radius: 3px;
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.group-fill .ellipse-2 {
+  background-color: #898989;
+  border-radius: 3px;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.group-fill .overlap {
+  height: 7px;
+  left: 3px;
+  position: absolute;
+  top: 13px;
+  width: 18px;
+}
+
+.group-fill .subtract {
+  height: 5px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.group-fill .img {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.group-fill .rectangle {
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}

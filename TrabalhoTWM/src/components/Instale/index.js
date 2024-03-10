@@ -1,0 +1,1 @@
+export { Instale } from "./Instale";

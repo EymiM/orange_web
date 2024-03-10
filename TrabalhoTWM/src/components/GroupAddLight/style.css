@@ -1,0 +1,87 @@
+.group-add-light {
+  height: 100%;
+  width: 100%;
+}
+
+.group-add-light .overlap-2 {
+  height: 18px;
+  left: 4px;
+  position: relative;
+  top: 2px;
+  width: 18px;
+}
+
+.group-add-light .group {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.group-add-light .overlap-3 {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.group-add-light .ellipse-6 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 4px;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.group-add-light .ellipse-7 {
+  height: 6px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.group-add-light .overlap-group-2 {
+  height: 7px;
+  left: -1px;
+  position: absolute;
+  top: 9px;
+  width: 16px;
+}
+
+.group-add-light .subtract-2 {
+  height: 6px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.group-add-light .rectangle-2 {
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.group-add-light .vector {
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.group-add-light .vector-2 {
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}

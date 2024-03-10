@@ -1,0 +1,38 @@
+.meatballs-menu {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.meatballs-menu .ellipse-3 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1.67px;
+  height: 3px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.meatballs-menu .ellipse-4 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1.67px;
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.meatballs-menu .ellipse-5 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1.67px;
+  height: 3px;
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}

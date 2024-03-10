@@ -1,0 +1,47 @@
+.calendar-add-fill {
+  height: 35px;
+  left: 499px;
+  position: relative;
+  top: 4546px;
+  width: 35px;
+}
+
+.calendar-add-fill .overlap-group-3 {
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: 4px;
+  width: 29px;
+}
+
+.calendar-add-fill .rectangle-3 {
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 29px;
+}
+
+.calendar-add-fill .line {
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.calendar-add-fill .line-2 {
+  height: 4px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.calendar-add-fill .subtract-3 {
+  height: 15px;
+  left: 3px;
+  position: absolute;
+  top: 18px;
+  width: 29px;
+}
